@@ -14,6 +14,7 @@ It provides basic arithmetic operations including:
 
 ## Features
 
+- It's not sensitive for floats, only calculates and concludes with integers
 - Simple and clean command-line interface
 - Input validation for division by zero
 - Error handling for invalid operators
