@@ -44,7 +44,8 @@ The program will first ask the user to enter two numbers on separate lines, and 
     The result of your operation: 19.00
     
 
--   **Example of Division with Zero Check:**
+**Example of Division with Zero Check:**
+-   
     
 
     Please enter 2 numbers:
