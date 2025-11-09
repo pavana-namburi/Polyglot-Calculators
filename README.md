@@ -47,7 +47,7 @@ If you like this initiative, **give it a ⭐** and help make this the ultimate o
 
 ## 🧰 Current Calculators
 
-Current Unique Contributor Amount is  14!
+Current Unique Contributor Amount is  15!
 
 | Calculator Name | Programming Language | Contributors |
 | :--- | :--- | :--- |
@@ -56,17 +56,17 @@ Current Unique Contributor Amount is  14!
 | `SimpleCalculator-C-gurbuzsuleyman` | C | [@gurbuzsuleyman](https://github.com/gurbuzsuleyman) |
 | `SimpleCalculator-Python-Sujal2114` | Python | [@Sujal2114](https://github.com/Sujal2114) / [@B3rou](https://github.com/B3rou) (README.md file)|
 | `SimpleCalculator-Python-ifauzeee` | Python | [@ifauzeee](https://github.com/ifauzeee) |
-| `SimpleCalculator-Java` | Java | [@yummyash](https://github.com/yummyash) / [@B3rou](https://github.com/B3rou) (README.md file)|
-| `SimpleCalculator-Web` | Html/Js/Css | [@ifauzeee](https://github.com/ifauzeee) |
-| `SimpleCalculator-C++` | C++ | [@Daku3011](https://github.com/Daku3011) / [@B3rou](https://github.com/B3rou) |
+| `SimpleCalculator-Java-yummyash` | Java | [@yummyash](https://github.com/yummyash) / [@B3rou](https://github.com/B3rou) (README.md file)|
+| `SimpleCalculator-Web-ifauzeee` | Html/Js/Css | [@ifauzeee](https://github.com/ifauzeee) |
+| `SimpleCalculator-C++-Daku3011` | C++ | [@Daku3011](https://github.com/Daku3011) / [@B3rou](https://github.com/B3rou) |
 | `TemperatureConverter-Java-Ayden939` | Java | [@Ayden939](https://github.com/Ayden939) |
 | `TemperatureConverter-C-Daku3011` | C | [@Daku3011](https://github.com/Daku3011) |
 | `TemperatureConverter-JavaScript-Bkeefe901` | JavaScript | [@Bkeefe901](https://github.com/Bkeefe901) |
 | `TimeZoneConverter-Python` | Python | [@ifauzeee](https://github.com/ifauzeee)  |
-| `DataStorageConverter-Python` | Python | [@ifauzeee](https://github.com/ifauzeee) / [@B3rou](https://github.com/B3rou) |
-| `CookingConverterSimple-Python` | Python | [@Akshad04](https://github.com/Akshad04) / [@B3rou](https://github.com/B3rou) |
-| `CookingConverterCLI-Python` | Python | [@xyzarnav](https://github.com/xyzarnav) / [@B3rou](https://github.com/B3rou) |
-| `AreaCalculator-Python` | Python | [@ifauzeee](https://github.com/ifauzeee) / [@B3rou](https://github.com/B3rou) |
+| `DataStorageConverter-Python-ifauzeee` | Python | [@ifauzeee](https://github.com/ifauzeee) / [@B3rou](https://github.com/B3rou) |
+| `CookingConverter-Python-Akshad04` | Python | [@Akshad04](https://github.com/Akshad04) / [@B3rou](https://github.com/B3rou) |
+| `CookingConverter-Python-xyzarnav` | Python | [@xyzarnav](https://github.com/xyzarnav) / [@B3rou](https://github.com/B3rou) |
+| `AreaCalculator-Python-ifauzeee` | Python | [@ifauzeee](https://github.com/ifauzeee) / [@B3rou](https://github.com/B3rou) |
 | `OhmsLawCalculator-Python-Daku3011` | Python | [@Daku3011](https://github.com/Daku3011) / [@B3rou](https://github.com/B3rou) |
 | `OhmsLawCalculator-Python-CrossGo14` | Python | [@CrossGo14](https://github.com/CrossGo14) / [@B3rou](https://github.com/B3rou) |
 | `OhmsLawCalculator-Python-NikhilYadav04` | Python | [@NikhilYadav04](https://github.com/NikhilYadav04) |
