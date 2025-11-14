@@ -47,7 +47,7 @@ If you like this initiative, **give it a ⭐** and help make this the ultimate o
 
 ## 🧰 Current Calculators
 
-Current Unique Contributor Amount is **19**!
+Current Unique Contributor Amount is **20**!
 
 
 | Calculator Name | Programming Language | Contributors |
@@ -59,10 +59,11 @@ Current Unique Contributor Amount is **19**!
 | `SimpleCalculator-C-gurbuzsuleyman` | C | [@gurbuzsuleyman](https://github.com/gurbuzsuleyman) |
 | `SimpleCalculator-Python-Sujal2114` | Python | [@Sujal2114](https://github.com/Sujal2114) / [@B3rou](https://github.com/B3rou) (README.md file)|
 | `SimpleCalculator-Python-ifauzeee` | Python | [@ifauzeee](https://github.com/ifauzeee) |
+| `SimpleCalculator-Python-Kamalesh-choudhary` | Python | [@Kamalesh-choudhary](https://github.com/Kamalesh-choudhary) |
 | `SimpleCalculator-Java-yummyash` | Java | [@yummyash](https://github.com/yummyash) / [@B3rou](https://github.com/B3rou) (README.md file)|
 | `SimpleCalculator-Java-Perouvianoss` | Java | [@Perouvianoss](https://github.com/Perouvianoss)|
 | `SimpleCalculator-Web-ifauzeee` | Html/Js/Css | [@ifauzeee](https://github.com/ifauzeee) |
-| `SimpleCalculator-C++-Daku3011` | C++ | [@Daku3011](https://github.com/Daku3011) / [@B3rou](https://github.com/B3rou) |
+| `SimpleCalculator-C++-Daku3011` | C++ | [@Daku3011](https://github.com/Daku3011) |
 | `SimpleCalculator-C++-Voyger2` | C++ | [@Voyger2](https://github.com/Voyger2)|
 | | | |
 | --- **🧪 Science** --- | | |
@@ -70,9 +71,9 @@ Current Unique Contributor Amount is **19**!
 | `TemperatureConverter-C-Daku3011` | C | [@Daku3011](https://github.com/Daku3011) |
 | `TemperatureConverter-Cpp-Voyger2` | C++ | [@Voyger2](https://github.com/Voyger2) |
 | `TemperatureConverter-JavaScript-Bkeefe901`| JavaScript | [@Bkeefe01](https://github.com/Bkeefe01) |
-| `TemperatureConverter-Rust-Slaytt` | Rust | [@Slaytt](https://github.com/Slaytt) / [@B3rou](https://github.com/B3rou) |
+| `TemperatureConverter-Rust-Slaytt` | Rust | [@Slaytt](https://github.com/Slaytt) |
 | `TemperatureConverter-Python-SimpleChap`| Python | [@SimpleChap](https://github.com/SimpleChap) |
-| `AreaCalculator-Python-ifauzeee` | Python | [@ifauzeee](https://github.com/ifauzeee) / [@B3rou](https://github.com/B3rou) |
+| `AreaCalculator-Python-ifauzeee` | Python | [@ifauzeee](https://github.com/ifauzeee) |
 | `AreaCalculator-Java-Perouvianoss` | Java | [@Perouvianoss](https://github.com/Perouvianoss) |
 | `OhmsLawCalculator-Python-Daku3011` | Python | [@Daku3011](https://github.com/Daku3011) / [@B3rou](https://github.com/B3rou) |
 | `OhmsLawCalculator-Python-CrossGo14` | Python | [@CrossGo14](https://github.com/CrossGo14) / [@B3rou](https://github.com/B3rou) |
@@ -83,7 +84,8 @@ Current Unique Contributor Amount is **19**!
 | | | |
 | --- **🛠️ Utility / Daily Life** --- | | |
 | `TimeZoneConverter-Python` | Python | [@ifauzeee](https://github.com/ifauzeee) |
-| `DataStorageConverter-Python-ifauzeee` | Python | [@ifauzeee](https://github.com/ifauzeee) / [@B3rou](https://github.com/B3rou) |
+| `DataStorageConverter-Python-ifauzeee` | Python | [@ifauzeee](https://github.com/ifauzeee) |
 | `DataStorageConverter-Java-umer901` | Java | [@umer901](https://github.com/umer901)|
-| `CookingConverterSimple-Python` | Python | [@Akshad04](https://github.com/Akshad04) / [@B3rou](https://github.com/B3rou) |
-| `CookingConverterCLI-Python` | Python | [@xyzarnav](https://github.com/xyzarnav) / [@B3rou](https://github.com/B3rou) |
+| `CookingConverterSimple-Python` | Python | [@Akshad04](https://github.com/Akshad04) |
+| `CookingConverterCLI-Python` | Python | [@xyzarnav](https://github.com/xyzarnav) |
+
