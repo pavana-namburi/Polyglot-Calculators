@@ -47,7 +47,7 @@ If you like this initiative, **give it a ⭐** and help make this the ultimate o
 
 ## 🧰 Current Calculators
 
-Current Unique Contributor Amount is **20**!
+Current Unique Contributor Amount is **21**!
 
 
 | Calculator Name | Programming Language | Contributors |
@@ -88,4 +88,4 @@ Current Unique Contributor Amount is **20**!
 | `DataStorageConverter-Java-umer901` | Java | [@umer901](https://github.com/umer901)|
 | `CookingConverterSimple-Python` | Python | [@Akshad04](https://github.com/Akshad04) |
 | `CookingConverterCLI-Python` | Python | [@xyzarnav](https://github.com/xyzarnav) |
-
+| `CryptoCalculator-Go-vishwasio` | Go | [@vishwasio](https://github.com/vishwasio)|
