@@ -28,10 +28,8 @@ def show_menu():
 def get_units(choice):
     """
     Grabs the units for displaying conversions
-
     Args:
         choice(int): The menu choice.
-
     Returns:
         tuple[str, str]: The from and to units
     """
@@ -60,11 +58,9 @@ def get_units(choice):
 def handle_conversion(choice, num):
     """
     Calculates the conversion based on the menu choice
-
     Args:
         choice(int): The menu choice.
         num(float): The number to convert.
-
     Returns:
         float: The converted number.
     """
@@ -108,10 +104,8 @@ def handle_conversion(choice, num):
 def main():
     """
     Runs the distance converter program.
-
     Displays the conversion menu, processes user input for conversion choices,
     accepts numerical values, performs unit conversions, and displays results.
-
     The program loops until the user selects the 'Exit' option.
     """
     show_menu()
@@ -135,8 +129,9 @@ def main():
         try:
             num = float(input(f"Enter value in {from_unit}: "))
 
-            if float(from_unit) < 0:
-                print("Numbers need to non-negative, please try again.")
+            # Hata düzeltildi: Artık 'from_unit' stringi yerine 'num' değişkeni kontrol ediliyor
+            if num < 0:
+                print("Numbers need to be non-negative, please try again.")
                 continue
         except ValueError:
             print("Invalid input, please enter a numeric value")
