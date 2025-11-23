@@ -39,6 +39,8 @@ public class MathFunction {
                 return Math.cos(argument);
             case TAN:
                 return Math.tan(argument);
+            case COT:
+                return 1/Math.tan(argument);
             case LOG:
                 return Math.log10(argument);
             case LN:

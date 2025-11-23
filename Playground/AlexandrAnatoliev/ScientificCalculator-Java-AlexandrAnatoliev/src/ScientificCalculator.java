@@ -11,6 +11,8 @@
 * @since    23.11.2025
 * @author   AlexandrAnatoliev
 */
+import java.util.Locale;
+
 public class ScientificCalculator {
     /**
     * Main method that handles command-line arguments and 
@@ -22,7 +24,10 @@ public class ScientificCalculator {
     *   [mathFunction]
     *   Example: "tan(1)"
     */
-    public static void main(String args[]) {
+    public static void main(String args[]) {    
+
+        Locale.setDefault(Locale.US);
+
         if(args.length == 1) {
             Parser parser = new Parser(args[0]);
             MathFunction mathFunction = new MathFunction(

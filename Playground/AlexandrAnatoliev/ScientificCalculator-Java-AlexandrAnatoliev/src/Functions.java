@@ -9,6 +9,7 @@ public enum Functions {
     SIN,
     COS,
     TAN,
+    COT,
     LOG,
     LN,
     EXP,
