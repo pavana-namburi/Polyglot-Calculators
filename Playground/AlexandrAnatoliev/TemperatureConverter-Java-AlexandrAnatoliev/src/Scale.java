@@ -6,7 +6,7 @@
 * @author   AlexandrAnatoliev
 */
 public enum Scale {
-    F,      // Celsius 
-    C,      // Fahrenheit
-    ERROR;
+    F,      // Fahrenheit
+    C,      // Celsius
+    ERROR;  // Error state
  }

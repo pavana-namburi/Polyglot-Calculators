@@ -1,5 +1,4 @@
-# Cooking Measurement Converter 
-Simple utility to convert between common cooking measurements.
+# Temperature Converter 
 
 > **Author:** Alexandr Anatoliev
 
@@ -8,11 +7,9 @@ Simple utility to convert between common cooking measurements.
 ---
 
 ## Features 
-* Supports common cooking measures: 
-  - Milliliters -> ml
-  - Cups -> cup
-  - Tablespoons -> tbsp
-  - Teaspoons -> tsp
+* Supports converting between temperature scales: 
+  -   F   Fahrenheit
+  -   C   Celsius
 * Enchanced console output with ANSI colors
 * Provides clear error messages for invalid input
 
@@ -21,12 +18,12 @@ Simple utility to convert between common cooking measurements.
 ## Project structure 
 
 ```
-CookingMeasurementConverter/
+TemperatureConverter/
 ├── README.md
 └── src
    ├── Colors.java
    ├── Converter.java
-   └── Measures.java
+   └── Scale.java
 ```
 
 ---
@@ -54,35 +51,43 @@ java Converter <arguments>
 java -cp bin Converter <arguments>
 ```
 * Input format:
-  - [value]       The quantity to convert      
-  - [from units]  Source measurement unit (ml, cup, tbsp, tsp)      
-  - [to units]    Target measurement unit (ml, cup, tbsp, tsp)     
+  - [value]       Value of temperature      
+  - [from scale]  Temperature scale      
 ``` 
-[value] [from units] [to units]
+[value] [from scale]
 ``` 
 
 ---
 
 ## Examples of use
 ```
-java -cp bin/ Converter 1 cup tbsp
-1 cup = 16 tbsp
+java -cp bin/ Converter 34 Celsius
+34.0 C = 93.2 F
 ```
 
 ```
-java -cp bin/ Converter invalid input arguments
+bin$ java Converter 44 F
+44.0 F = 6.666666666666667 C
+```
+
+```
+bin$ java Converter 21 celsius into fahrenheit
+21.0 C = 69.8 F
+```
+
+```
+ > java -cp bin/ Converter invalid input
 
 ERROR: For input string: "invalid"
-
-Input format:
-Converter [value] [from units] [to units]
-Units:
-Milliliters -> ml
-Cups -> cup
-Tablespoons -> tbsp
-Teaspoons -> tsp
-Example use:
-java -cp bin/ Converter 1 cup tbsp
+            Input format:
+            Converter [value] [from scale]
+            Scales:
+            F   Fahrenheit
+            C   Celsius
+            Example use:
+            java -cp bin/ Converter 34 Celsius
+            bin$ java Converter 44 F
+            bin$ java Converter 21 celsius into fahrenheit
 ```
 
 ---
